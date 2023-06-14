@@ -1,7 +1,7 @@
 @echo off
 
 REM Create and activate the virtual environment
-python -m venv venv
+python -m venv myvenv
 venv\Scripts\activate.bat
 
 REM Install dependencies

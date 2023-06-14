@@ -1,6 +1,7 @@
 import os
 import re
 from dotenv import load_dotenv
+
 load_dotenv()
 
 os.chdir(os.getenv("DOWNLOAD_PATH"))
