@@ -1,7 +1,6 @@
 # File Organizer App
 
-The File Organizer App is a command-line tool that helps you organize and manage your files efficiently. It automatically sorts files based on their file types and moves them to designated folders.
-
+The File Organizer App is an automation app that helps user organize all their downloaded files into desired folders.
 ## Features
 
 - **File Organization**: The app scans a specified directory and categorizes files into predefined categories based on their file extensions. It then moves the files to their respective folders for better organization.
